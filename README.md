@@ -5,8 +5,8 @@
 |                  Problem Type                   | Number Solved |
 |-------------------------------------------------|:-------------:|
 | [Binary Search I](#Binary Search I)             |      1/23     |
-| [Programming Skills I](#Programming Skills I)   |      1/23     |
-| **Total**                                       |**Unknown/300**|
+| [Programming Skills I](#Programming Skills I)   |      0/34     |
+| **Total**                                       |**Unknown/Unknown**|
 
 ## Binary Search I
 1. [35 - Search Insert Position](source/35%20-%20Search%20Insert%20Position.cpp)
