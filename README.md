@@ -7,7 +7,7 @@
 | [Binary Search I](#Binary-Search-I)               |      1/23     |
 | [Binary Search II](#Binary-Search-II)             |      0/00     |
 | [Binary Search III](#Binary-Search-III)           |      0/00     |
-| [Programming Skills I](#Programming-Skills-I)     |      1/34     |
+| [Programming Skills I](#Programming-Skills-I)     |      2/34     |
 | [Programming Skills II](#Programming-Skills-II)   |      0/00     |
 | [Programming Skills III](#Programming-Skills-III) |      0/00     |
 | **Total**                                         |**Unknown/Unknown**|
@@ -24,6 +24,7 @@
 
 ## Programming Skills I
 1. [191 - Number of 1 Bits](source/191%20-%20Number%20of%201%20Bits.cpp)
+2. [1281 - Subtract the Product and Sum of Digits of an Integer.cpp](source/1281%20-%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.cpp)
 
 ## Programming Skills II
 
