@@ -14,6 +14,7 @@
 
 ## Binary Search I
 1. [35 - Search Insert Position](source/35%20-%20Search%20Insert%20Position.cpp)
+2. [852 - Peak Index in a Mountain Array](source/852%20-%20Peak%20Index%20in%20a%20Mountain%20Array.cpp)
 
 ## Binary Search II
 
