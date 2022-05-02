@@ -1,7 +1,6 @@
 class Solution {
 public:
     int searchInsert(vector<int>& nums, int target) {
-        ios::sync_with_stdio(false); cin.tie(0);
         int m, l = 0, r = nums.size() - 1;
         while (l <= r) {
             m = (l + r)/2;
