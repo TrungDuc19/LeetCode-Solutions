@@ -10,8 +10,7 @@
 | [Programming Skills I](#Programming-Skills-I)     |      0/34     |
 | [Programming Skills II](#Programming-Skills-II)   |      0/34     |
 | [Programming Skills III](#Programming-Skills-III) |      0/34     |
-
-| **Total**                                       |**Unknown/Unknown**|
+| **Total**                                         |**Unknown/Unknown**|
 
 ## Binary Search I
 1. [35 - Search Insert Position](source/35%20-%20Search%20Insert%20Position.cpp)
