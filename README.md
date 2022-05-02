@@ -4,7 +4,7 @@
 ## Table of contents
 |                   Problem Type                    | Number Solved |
 |---------------------------------------------------|:-------------:|
-| [Binary Search I](#Binary-Search-I)               |      1/23     |
+| [Binary Search I](#Binary-Search-I)               |      2/23     |
 | [Binary Search II](#Binary-Search-II)             |      0/00     |
 | [Binary Search III](#Binary-Search-III)           |      0/00     |
 | [Programming Skills I](#Programming-Skills-I)     |      2/34     |
