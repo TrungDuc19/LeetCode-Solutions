@@ -1,7 +1,6 @@
 class Solution {
 public:
     int peakIndexInMountainArray(vector<int>& arr) {
-        ios::sync_with_stdio(false); cin.tie(0);
         int m, l = 0, r = arr.size()-1;
         while (l <= r) {
             m = (l + r)/2;
