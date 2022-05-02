@@ -10,6 +10,7 @@
 | [Programming Skills I](#Programming-Skills-I)     |      2/34     |
 | [Programming Skills II](#Programming-Skills-II)   |      0/00     |
 | [Programming Skills III](#Programming-Skills-III) |      0/00     |
+| [Other](#Other)                                   |    1/Unknown  |
 | **Total**                                         |**Unknown/Unknown**|
 
 ## Binary Search I
@@ -30,3 +31,7 @@
 
 
 ## Programming Skills III
+
+
+## Other
+1. [905 - Sort Array By Parity](source/905%20-%20Sort%20Array%20By%20Parity.cpp)
