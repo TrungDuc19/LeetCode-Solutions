@@ -7,9 +7,9 @@
 | [Binary Search I](#Binary-Search-I)               |      1/23     |
 | [Binary Search II](#Binary-Search-II)             |      0/00     |
 | [Binary Search III](#Binary-Search-III)           |      0/00     |
-| [Programming Skills I](#Programming-Skills-I)     |      0/34     |
-| [Programming Skills II](#Programming-Skills-II)   |      0/34     |
-| [Programming Skills III](#Programming-Skills-III) |      0/34     |
+| [Programming Skills I](#Programming-Skills-I)     |      1/34     |
+| [Programming Skills II](#Programming-Skills-II)   |      0/00     |
+| [Programming Skills III](#Programming-Skills-III) |      0/00     |
 | **Total**                                         |**Unknown/Unknown**|
 
 ## Binary Search I
@@ -23,7 +23,7 @@
 
 
 ## Programming Skills I
-
+1. [191 - Number of 1 Bits](source/191%20-%20Number%20of%201%20Bits.cpp)
 
 ## Programming Skills II
 
