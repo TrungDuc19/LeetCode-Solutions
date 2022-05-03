@@ -7,7 +7,7 @@
 | [Binary Search I](#Binary-Search-I)               |      6/23     |
 | [Binary Search II](#Binary-Search-II)             |      0/00     |
 | [Binary Search III](#Binary-Search-III)           |      0/00     |
-| [Programming Skills I](#Programming-Skills-I)     |      2/34     |
+| [Programming Skills I](#Programming-Skills-I)     |      4/34     |
 | [Programming Skills II](#Programming-Skills-II)   |      0/00     |
 | [Programming Skills III](#Programming-Skills-III) |      0/00     |
 | [Other](#Other)                                   |    3/Unknown  |
@@ -28,8 +28,10 @@
 
 
 ## Programming Skills I
-1. [191 - Number of 1 Bits](source/191%20-%20Number%20of%201%20Bits.cpp)
-2. [1281 - Subtract the Product and Sum of Digits of an Integer.cpp](source/1281%20-%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.cpp)
+1. [1523 - Count Odd Numbers in an Interval Range](source/1523%20-%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range.cpp)
+2. [1491 - Average Salary Excluding the Minimum and Maximum Salary](source/1491%20-%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary.cpp)
+3. [191 - Number of 1 Bits](source/191%20-%20Number%20of%201%20Bits.cpp)
+4. [1281 - Subtract the Product and Sum of Digits of an Integer.cpp](source/1281%20-%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.cpp)
 
 
 ## Programming Skills II
