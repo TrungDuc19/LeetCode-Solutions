@@ -4,7 +4,7 @@
 ## Table of contents
 |                   Problem Type                    | Number Solved |
 |---------------------------------------------------|:-------------:|
-| [Binary Search I](#Binary-Search-I)               |      2/23     |
+| [Binary Search I](#Binary-Search-I)               |      5/23     |
 | [Binary Search II](#Binary-Search-II)             |      0/00     |
 | [Binary Search III](#Binary-Search-III)           |      0/00     |
 | [Programming Skills I](#Programming-Skills-I)     |      2/34     |
@@ -14,9 +14,11 @@
 | **Total**                                         |**Unknown/Unknown**|
 
 ## Binary Search I
-1. [35 - Search Insert Position](source/35%20-%20Search%20Insert%20Position.cpp)
-2. [852 - Peak Index in a Mountain Array](source/852%20-%20Peak%20Index%20in%20a%20Mountain%20Array.cpp)
-3. [367 - Valid Perfect Square](source/367%20-%20Valid%20Perfect%20Square.cpp)
+1. [704 - Binary Search](source/704%20-%20Binary%20Search.cpp)
+2. [374 - Guess Number Higher or Lower](source/374%20-%20Guess%20Number%20Higher%20or%20Lower.cpp)
+3. [35 - Search Insert Position](source/35%20-%20Search%20Insert%20Position.cpp)
+4. [852 - Peak Index in a Mountain Array](source/852%20-%20Peak%20Index%20in%20a%20Mountain%20Array.cpp)
+5. [367 - Valid Perfect Square](source/367%20-%20Valid%20Perfect%20Square.cpp)
 
 ## Binary Search II
 
