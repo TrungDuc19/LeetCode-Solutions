@@ -16,6 +16,7 @@
 ## Binary Search I
 1. [35 - Search Insert Position](source/35%20-%20Search%20Insert%20Position.cpp)
 2. [852 - Peak Index in a Mountain Array](source/852%20-%20Peak%20Index%20in%20a%20Mountain%20Array.cpp)
+3. [367 - Valid Perfect Square](source/367%20-%20Valid%20Perfect%20Square.cpp)
 
 ## Binary Search II
 
@@ -26,7 +27,7 @@
 ## Programming Skills I
 1. [191 - Number of 1 Bits](source/191%20-%20Number%20of%201%20Bits.cpp)
 2. [1281 - Subtract the Product and Sum of Digits of an Integer.cpp](source/1281%20-%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.cpp)
-3. [367 - Valid Perfect Square](source/367%20-%20Valid%20Perfect%20Square.cpp)
+
 
 ## Programming Skills II
 
