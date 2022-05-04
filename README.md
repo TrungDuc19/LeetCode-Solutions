@@ -14,12 +14,12 @@
 | **Total**                                         |**Unknown/Unknown**|
 
 ## Binary Search I
-> Day 1:
-1. [704 - Binary Search](source/704%20-%20Binary%20Search.cpp)
-2. [374 - Guess Number Higher or Lower](source/374%20-%20Guess%20Number%20Higher%20or%20Lower.cpp)
-> Day 2:
-4. [35 - Search Insert Position](source/35%20-%20Search%20Insert%20Position.cpp)
-5. [852 - Peak Index in a Mountain Array](source/852%20-%20Peak%20Index%20in%20a%20Mountain%20Array.cpp)
+==Day 1:==
+- [704 - Binary Search](source/704%20-%20Binary%20Search.cpp)
+- [374 - Guess Number Higher or Lower](source/374%20-%20Guess%20Number%20Higher%20or%20Lower.cpp)
+2. Day 2:
+- [35 - Search Insert Position](source/35%20-%20Search%20Insert%20Position.cpp)
+- [852 - Peak Index in a Mountain Array](source/852%20-%20Peak%20Index%20in%20a%20Mountain%20Array.cpp)
 > Day 3:
 7. [367 - Valid Perfect Square](source/367%20-%20Valid%20Perfect%20Square.cpp)
 8. [1385 - Find the Distance Value Between Two Arrays](source/1385%20-%20Find%20the%20Distance%20Value%20Between%20Two%20Arrays.cpp)
