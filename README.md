@@ -35,6 +35,7 @@
 5. 
 6. [1779 - Find Nearest Point That Has the Same X or Y Coordinate](source/1779%20-%20Find%20Nearest%20Point%20That%20Has%20the%20Same%20X%20or%20Y%20Coordinate.cpp)
 7. [1822 - Sign of the Product of an Array](source/1822%20-%20Sign%20of%20the%20Product%20of%20an%20Array.cpp)
+8. [1502 - Can Make Arithmetic Progression From Sequence](source/1502%20-%20Can%20Make%20Arithmetic%20Progression%20From%20Sequence.cpp)
 
 
 ## Programming Skills II
