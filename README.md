@@ -32,14 +32,16 @@
 2. [1491 - Average Salary Excluding the Minimum and Maximum Salary](source/1491%20-%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary.cpp)
 3. [191 - Number of 1 Bits](source/191%20-%20Number%20of%201%20Bits.cpp)
 4. [1281 - Subtract the Product and Sum of Digits of an Integer.cpp](source/1281%20-%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.cpp)
-5. 
+5. [976 - Largest Perimeter Triangle](source/976%20-%20Largest%20Perimeter%20Triangle.cpp)
 6. [1779 - Find Nearest Point That Has the Same X or Y Coordinate](source/1779%20-%20Find%20Nearest%20Point%20That%20Has%20the%20Same%20X%20or%20Y%20Coordinate.cpp)
 7. [1822 - Sign of the Product of an Array](source/1822%20-%20Sign%20of%20the%20Product%20of%20an%20Array.cpp)
 8. [1502 - Can Make Arithmetic Progression From Sequence](source/1502%20-%20Can%20Make%20Arithmetic%20Progression%20From%20Sequence.cpp)
 
 
 ## Programming Skills II
-
+1. Cao Trung Duc
+- VIet Nam
+- VIet Nam
 
 ## Programming Skills III
 
