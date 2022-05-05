@@ -25,9 +25,9 @@
 - [1385 - Find the Distance Value Between Two Arrays](source/1385%20-%20Find%20the%20Distance%20Value%20Between%20Two%20Arrays.cpp)
 ### Day 4:
 - [69 - Sqrt(x)](source/69%20-%20Sqrt(x).cpp)
-- []
-### Day 5:
 - [744 - Find Smallest Letter Greater Than Target](source/744%20-%20Find%20Smallest%20Letter%20Greater%20Than%20Target.cpp)
+### Day 5:
+- 
 
 ## Binary Search II
 
