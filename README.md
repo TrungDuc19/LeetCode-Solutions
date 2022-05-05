@@ -4,7 +4,7 @@
 ## Table of contents
 |                   Problem Type                    | Number Solved |
 |---------------------------------------------------|:-------------:|
-| [Binary Search I](#Binary-Search-I)               |      6/23     |
+| [Binary Search I](#Binary-Search-I)               |      9/23     |
 | [Binary Search II](#Binary-Search-II)             |      0/00     |
 | [Binary Search III](#Binary-Search-III)           |      0/00     |
 | [Programming Skills I](#Programming-Skills-I)     |      4/34     |
@@ -27,7 +27,7 @@
 - [69 - Sqrt(x)](source/69%20-%20Sqrt(x).cpp)
 - [744 - Find Smallest Letter Greater Than Target](source/744%20-%20Find%20Smallest%20Letter%20Greater%20Than%20Target.cpp)
 ### Day 5:
-- 
+- [278 - First Bad Version](source/278%20-%20First%20Bad%20Version.cpp)
 
 ## Binary Search II
 
@@ -45,7 +45,7 @@
 ### Day 3:
 - [976 - Largest Perimeter Triangle](source/976%20-%20Largest%20Perimeter%20Triangle.cpp)
 - [1779 - Find Nearest Point That Has the Same X or Y Coordinate](source/1779%20-%20Find%20Nearest%20Point%20That%20Has%20the%20Same%20X%20or%20Y%20Coordinate.cpp)
-> Day 4:
+### Day 4:
 - [1822 - Sign of the Product of an Array](source/1822%20-%20Sign%20of%20the%20Product%20of%20an%20Array.cpp)
 - [1502 - Can Make Arithmetic Progression From Sequence](source/1502%20-%20Can%20Make%20Arithmetic%20Progression%20From%20Sequence.cpp)
 
