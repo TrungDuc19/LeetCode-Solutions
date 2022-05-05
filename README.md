@@ -26,6 +26,8 @@
 ### Day 4:
 - [69 - Sqrt(x)](source/69%20-%20Sqrt(x).cpp)
 - []
+### Day 5:
+- [744 - Find Smallest Letter Greater Than Target](source/744%20-%20Find%20Smallest%20Letter%20Greater%20Than%20Target.cpp)
 
 ## Binary Search II
 
