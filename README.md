@@ -62,3 +62,4 @@
 3. [9 - Palindrome Number](source/9%20-%20Palindrome%20Number.cpp)
 4. [1679 - Max Number of K-Sum Pairs](source/1679%20-%20Max%20Number%20of%20K-Sum%20Pairs.cpp)
 5. [225 - Implement Stack using Queues](source/225%20-%20Implement%20Stack%20using%20Queues.cpp)
+6. [1209 - Remove All Adjacent Duplicates in String II](source/1209%20-%20Remove%20All%20Adjacent%20Duplicates%20in%20String%20II.cpp)
