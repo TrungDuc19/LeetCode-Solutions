@@ -59,8 +59,8 @@
 -
 -
 ### Day 6:
--
--
+- 
+- [283 - Move Zeroes](source/283%20-%20Move%20Zeroes.cpp)
 - [1672 - Richest Customer Wealth](source/1672%20-%20Richest%20Customer%20Wealth.cpp)
 
 ## Programming Skills II
