@@ -28,6 +28,10 @@
 - [744 - Find Smallest Letter Greater Than Target](source/744%20-%20Find%20Smallest%20Letter%20Greater%20Than%20Target.cpp)
 ### Day 5:
 - [278 - First Bad Version](source/278%20-%20First%20Bad%20Version.cpp)
+- []()
+### Day 6:
+- [441 - Arranging Coins](source/441%20-%20Arranging%20Coins.cpp)
+- []()
 
 ## Binary Search II
 
@@ -48,7 +52,16 @@
 ### Day 4:
 - [1822 - Sign of the Product of an Array](source/1822%20-%20Sign%20of%20the%20Product%20of%20an%20Array.cpp)
 - [1502 - Can Make Arithmetic Progression From Sequence](source/1502%20-%20Can%20Make%20Arithmetic%20Progression%20From%20Sequence.cpp)
-
+- [202 - Happy Number](source/202%20-%20Happy%20Number.cpp)
+-
+### Day 5:
+-
+-
+-
+### Day 6:
+-
+-
+- [1672 - Richest Customer Wealth](source/1672%20-%20Richest%20Customer%20Wealth.cpp)
 
 ## Programming Skills II
 
