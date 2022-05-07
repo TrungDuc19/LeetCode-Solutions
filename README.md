@@ -62,6 +62,9 @@
 - 
 - [283 - Move Zeroes](source/283%20-%20Move%20Zeroes.cpp)
 - [1672 - Richest Customer Wealth](source/1672%20-%20Richest%20Customer%20Wealth.cpp)
+### Day 7:
+- [1572 - Matrix Diagonal Sum](source/1572%20-%20Matrix%20Diagonal%20Sum.cpp)
+- 
 
 ## Programming Skills II
 
