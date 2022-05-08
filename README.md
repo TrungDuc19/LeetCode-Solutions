@@ -8,7 +8,7 @@
 | [Binary Search II](#Binary-Search-II)             |     00/00     |
 | [Programming Skills I](#Programming-Skills-I)     |     04/34     |
 | [Programming Skills II](#Programming-Skills-II)   |     00/00     |
-| [Daily Challenge](#Daily Challenge)               |   06/Unknown  |
+| [Daily Challenge](#Daily-Challenge)               |   06/Unknown  |
 | [Other](#Other)                                   |   03/Unknown  |
 | **Total**                                         |**Unknown/Unknown**|
 
