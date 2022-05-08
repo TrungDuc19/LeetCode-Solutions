@@ -13,24 +13,24 @@
 | **Total**                                         |**Unknown/Unknown**|
 
 ## Binary Search I
-#### Day 1:
-- [704 - Binary Search](source/704%20-%20Binary%20Search.cpp)
-- [374 - Guess Number Higher or Lower](source/374%20-%20Guess%20Number%20Higher%20or%20Lower.cpp)
-#### Day 2:
-- [35 - Search Insert Position](source/35%20-%20Search%20Insert%20Position.cpp)
-- [852 - Peak Index in a Mountain Array](source/852%20-%20Peak%20Index%20in%20a%20Mountain%20Array.cpp)
-#### Day 3:
-- [367 - Valid Perfect Square](source/367%20-%20Valid%20Perfect%20Square.cpp)
-- [1385 - Find the Distance Value Between Two Arrays](source/1385%20-%20Find%20the%20Distance%20Value%20Between%20Two%20Arrays.cpp)
-#### Day 4:
-- [69 - Sqrt(x)](source/69%20-%20Sqrt(x).cpp)
-- [744 - Find Smallest Letter Greater Than Target](source/744%20-%20Find%20Smallest%20Letter%20Greater%20Than%20Target.cpp)
-#### Day 5:
-- [278 - First Bad Version](source/278%20-%20First%20Bad%20Version.cpp)
-- []()
-#### Day 6:
-- [441 - Arranging Coins](source/441%20-%20Arranging%20Coins.cpp)
-- []()
+- Day 1:
+  - [704 - Binary Search](source/704%20-%20Binary%20Search.cpp)
+  - [374 - Guess Number Higher or Lower](source/374%20-%20Guess%20Number%20Higher%20or%20Lower.cpp)
+- Day 2:
+  - [35 - Search Insert Position](source/35%20-%20Search%20Insert%20Position.cpp)
+  - [852 - Peak Index in a Mountain Array](source/852%20-%20Peak%20Index%20in%20a%20Mountain%20Array.cpp)
+- Day 3:
+  - [367 - Valid Perfect Square](source/367%20-%20Valid%20Perfect%20Square.cpp)
+  - [1385 - Find the Distance Value Between Two Arrays](source/1385%20-%20Find%20the%20Distance%20Value%20Between%20Two%20Arrays.cpp)
+- Day 4:
+  - [69 - Sqrt(x)](source/69%20-%20Sqrt(x).cpp)
+  - [744 - Find Smallest Letter Greater Than Target](source/744%20-%20Find%20Smallest%20Letter%20Greater%20Than%20Target.cpp)
+- Day 5:
+  - [278 - First Bad Version](source/278%20-%20First%20Bad%20Version.cpp)
+  - []()
+- Day 6:
+  - [441 - Arranging Coins](source/441%20-%20Arranging%20Coins.cpp)
+  - []()
 
 ## Binary Search II
 
@@ -74,6 +74,7 @@
   - Day 5:
   - Day 6:
   - Day 7: [456 - 132 Pattern](source/456%20-%20132%20Pattern.cpp)
+  - [456 - 132 Pattern](source/456%20-%20132%20Pattern.cpp)
 
 
 ## Other
