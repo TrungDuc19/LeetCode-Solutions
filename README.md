@@ -4,13 +4,12 @@
 ## Table of contents
 |                   Problem Type                    | Number Solved |
 |---------------------------------------------------|:-------------:|
-| [Binary Search I](#Binary-Search-I)               |      9/23     |
-| [Binary Search II](#Binary-Search-II)             |      0/00     |
-| [Binary Search III](#Binary-Search-III)           |      0/00     |
-| [Programming Skills I](#Programming-Skills-I)     |      4/34     |
-| [Programming Skills II](#Programming-Skills-II)   |      0/00     |
-| [Programming Skills III](#Programming-Skills-III) |      0/00     |
-| [Other](#Other)                                   |    3/Unknown  |
+| [Binary Search I](#Binary-Search-I)               |     09/23     |
+| [Binary Search II](#Binary-Search-II)             |     00/00     |
+| [Programming Skills I](#Programming-Skills-I)     |     04/34     |
+| [Programming Skills II](#Programming-Skills-II)   |     00/00     |
+| [Daily Challenge](#Daily Challenge)               |   06/Unknown  |
+| [Other](#Other)                                   |   03/Unknown  |
 | **Total**                                         |**Unknown/Unknown**|
 
 ## Binary Search I
@@ -34,9 +33,6 @@
 - []()
 
 ## Binary Search II
-
-
-## Binary Search III
 
 
 ## Programming Skills I
@@ -69,7 +65,16 @@
 ## Programming Skills II
 
 
-## Programming Skills III
+## Daily Challenge
+- Month 5:
+  - Day 1: 
+  - Day 2:
+  - Day 3:
+  - Day 4:
+  - Day 5:
+  - Day 6:
+  - Day 7: [456 - 132 Pattern](source/456%20-%20132%20Pattern.cpp)
+  - [456 - 132 Pattern](source/456%20-%20132%20Pattern.cpp)
 
 
 ## Other
