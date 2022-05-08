@@ -31,36 +31,47 @@
 - Day 6:
   - [441 - Arranging Coins](source/441%20-%20Arranging%20Coins.cpp)
   - []()
+- Day 7:
+- Day 8:
+- Day 9:
+- Day 10:
+- Day 11:
+- Day 12:
 
 ## Binary Search II
 
 
 ## Programming Skills I
-### Day 1:
-- [1523 - Count Odd Numbers in an Interval Range](source/1523%20-%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range.cpp)
-- [1491 - Average Salary Excluding the Minimum and Maximum Salary](source/1491%20-%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary.cpp)
-### Day 2:
-- [191 - Number of 1 Bits](source/191%20-%20Number%20of%201%20Bits.cpp)
-- [1281 - Subtract the Product and Sum of Digits of an Integer.cpp](source/1281%20-%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.cpp)
-### Day 3:
-- [976 - Largest Perimeter Triangle](source/976%20-%20Largest%20Perimeter%20Triangle.cpp)
-- [1779 - Find Nearest Point That Has the Same X or Y Coordinate](source/1779%20-%20Find%20Nearest%20Point%20That%20Has%20the%20Same%20X%20or%20Y%20Coordinate.cpp)
-### Day 4:
-- [1822 - Sign of the Product of an Array](source/1822%20-%20Sign%20of%20the%20Product%20of%20an%20Array.cpp)
-- [1502 - Can Make Arithmetic Progression From Sequence](source/1502%20-%20Can%20Make%20Arithmetic%20Progression%20From%20Sequence.cpp)
-- [202 - Happy Number](source/202%20-%20Happy%20Number.cpp)
--
-### Day 5:
--
--
--
-### Day 6:
-- 
-- [283 - Move Zeroes](source/283%20-%20Move%20Zeroes.cpp)
-- [1672 - Richest Customer Wealth](source/1672%20-%20Richest%20Customer%20Wealth.cpp)
-### Day 7:
-- [1572 - Matrix Diagonal Sum](source/1572%20-%20Matrix%20Diagonal%20Sum.cpp)
-- 
+- Day 1:
+  - [1523 - Count Odd Numbers in an Interval Range](source/1523%20-%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range.cpp)
+  - [1491 - Average Salary Excluding the Minimum and Maximum Salary](source/1491%20-%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary.cpp)
+- Day 2:
+  - [191 - Number of 1 Bits](source/191%20-%20Number%20of%201%20Bits.cpp)
+  - [1281 - Subtract the Product and Sum of Digits of an Integer.cpp](source/1281%20-%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.cpp)
+- Day 3:
+  - [976 - Largest Perimeter Triangle](source/976%20-%20Largest%20Perimeter%20Triangle.cpp)
+  - [1779 - Find Nearest Point That Has the Same X or Y Coordinate](source/1779%20-%20Find%20Nearest%20Point%20That%20Has%20the%20Same%20X%20or%20Y%20Coordinate.cpp)
+- Day 4:
+  - [1822 - Sign of the Product of an Array](source/1822%20-%20Sign%20of%20the%20Product%20of%20an%20Array.cpp)
+  - [1502 - Can Make Arithmetic Progression From Sequence](source/1502%20-%20Can%20Make%20Arithmetic%20Progression%20From%20Sequence.cpp)
+  - [202 - Happy Number](source/202%20-%20Happy%20Number.cpp)
+  - []()
+- Day 5:
+  - []()
+  - []()
+  - []()
+- Day 6:
+  - []()
+  - [283 - Move Zeroes](source/283%20-%20Move%20Zeroes.cpp)
+  - [1672 - Richest Customer Wealth](source/1672%20-%20Richest%20Customer%20Wealth.cpp)
+- Day 7:
+  - [1572 - Matrix Diagonal Sum](source/1572%20-%20Matrix%20Diagonal%20Sum.cpp)
+  - []()
+- Day 8:
+- Day 9:
+- Day 10:
+- Day 11:
+- Day 12:
 
 ## Programming Skills II
 
@@ -74,7 +85,6 @@
   - Day 5:
   - Day 6:
   - Day 7: [456 - 132 Pattern](source/456%20-%20132%20Pattern.cpp)
-  - [456 - 132 Pattern](source/456%20-%20132%20Pattern.cpp)
 
 
 ## Other
