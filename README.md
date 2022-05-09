@@ -68,6 +68,9 @@
   - [1572 - Matrix Diagonal Sum](source/1572%20-%20Matrix%20Diagonal%20Sum.cpp)
   - []()
 - Day 8:
+  - [1768 - Merge Strings Alternately](source/1768%20-%20Merge%20Strings%20Alternately.cpp)
+  - [1678 - Goal Parser Interpretation](source/1678%20-%20Goal%20Parser%20Interpretation.cpp)
+  - [389 - Find the Difference](source/389%20-%20Find%20the%20Difference.cpp)
 - Day 9:
 - Day 10:
 - Day 11:
