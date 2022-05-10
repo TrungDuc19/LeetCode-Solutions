@@ -32,11 +32,23 @@
   - [441 - Arranging Coins](source/441%20-%20Arranging%20Coins.cpp)
   - []()
 - Day 7:
+  - 
+  - 
 - Day 8:
+  - 
+  - 
 - Day 9:
+  - [1337 - The K Weakest Rows in a Matrix](source/1337%20-%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.cpp)
+  - 
 - Day 10:
+  - 
+  - 
 - Day 11:
+  - 
+  - 
 - Day 12:
+  - 
+  - 
 
 ## Binary Search II
 
