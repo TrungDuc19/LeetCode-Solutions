@@ -27,12 +27,12 @@
   - [744 - Find Smallest Letter Greater Than Target](source/744%20-%20Find%20Smallest%20Letter%20Greater%20Than%20Target.cpp)
 - Day 5:
   - [278 - First Bad Version](source/278%20-%20First%20Bad%20Version.cpp)
-  - []()
+  - [34 - Find First and Last Position of Element in Sorted Array](source/34%20-%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.cpp)
 - Day 6:
   - [441 - Arranging Coins](source/441%20-%20Arranging%20Coins.cpp)
   - []()
 - Day 7:
-  - 
+  - [167 - Two Sum II - Input Array Is Sorted](source/167%20-%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.cpp)
   - 
 - Day 8:
   - 
