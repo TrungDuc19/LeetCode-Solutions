@@ -42,7 +42,7 @@
   - 
 - Day 10:
   - 
-  - 
+  - [633 - Sum of Square Numbers](source/633%20-%20Sum%20of%20Square%20Numbers.cpp)
 - Day 11:
   - 
   - 
