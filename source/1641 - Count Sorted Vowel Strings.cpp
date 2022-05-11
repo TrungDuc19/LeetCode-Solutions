@@ -14,7 +14,7 @@ public:
         return dp[n][5];
     }
 
-    // Backtrack
+    // Backtracking
     int cnt = 0;
     void backTrack(int cnt_char, int n, int ind)
     {
