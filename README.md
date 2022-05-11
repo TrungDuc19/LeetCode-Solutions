@@ -98,8 +98,12 @@
   - Day 3:
   - Day 4:
   - Day 5:
-  - Day 6:
+  - Day 6: 
   - Day 7: [456 - 132 Pattern](source/456%20-%20132%20Pattern.cpp)
+  - Day 8:
+  - Day 9:
+  - Day 10: 
+  - Day 11: [1641 - Count Sorted Vowel Strings](source/1641%20-%20Count%20Sorted%20Vowel%20Strings.cpp)
 
 
 ## Other
