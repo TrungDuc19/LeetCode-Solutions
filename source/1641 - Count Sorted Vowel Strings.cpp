@@ -1,6 +1,6 @@
-// Dynamic Program
 class Solution {
 public:
+    // Dynamic Program
     int countVowelStrings(int n) {
         vector<vector<int>>dp(n + 1, vector<int>(6));
         for (int i = 1; i <= 5; i++) {
@@ -13,12 +13,8 @@ public:
         }   
         return dp[n][5];
     }
-};
 
-
-// Backtrack
-class Solution {
-public:
+    // Backtrack
     int cnt = 0;
     void backTrack(int cnt_char, int n, int ind)
     {
