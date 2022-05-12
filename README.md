@@ -104,6 +104,7 @@
   - Day 9:
   - Day 10: 
   - Day 11: [1641 - Count Sorted Vowel Strings](source/1641%20-%20Count%20Sorted%20Vowel%20Strings.cpp)
+  - Day 12: [47 - Permutations II](source/47%20-%20Permutations%20II.cpp)
 
 
 ## Other
@@ -113,4 +114,3 @@
 4. [1679 - Max Number of K-Sum Pairs](source/1679%20-%20Max%20Number%20of%20K-Sum%20Pairs.cpp)
 5. [225 - Implement Stack using Queues](source/225%20-%20Implement%20Stack%20using%20Queues.cpp)
 6. [1209 - Remove All Adjacent Duplicates in String II](source/1209%20-%20Remove%20All%20Adjacent%20Duplicates%20in%20String%20II.cpp)
-7. [456 - 132 Pattern](source/456%20-%20132%20Pattern.cpp)
