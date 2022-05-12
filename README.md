@@ -33,22 +33,22 @@
   - []()
 - Day 7:
   - [167 - Two Sum II - Input Array Is Sorted](source/167%20-%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.cpp)
-  - 
+  - []()
 - Day 8:
   - [74 - Search a 2D Matrix](source/74%20-%20Search%20a%202D%20Matrix.cpp)
-  - 
+  - []()
 - Day 9:
   - [1337 - The K Weakest Rows in a Matrix](source/1337%20-%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.cpp)
   - [1346 - Check If N and Its Double Exist](source/1346%20-%20Check%20If%20N%20and%20Its%20Double%20Exist.cpp)
 - Day 10:
-  - 
+  - []()
   - [633 - Sum of Square Numbers](source/633%20-%20Sum%20of%20Square%20Numbers.cpp)
 - Day 11:
-  - 
-  - 
+  - []()
+  - []()
 - Day 12:
-  - 
-  - 
+  - []()
+  - []()
 
 ## Binary Search II
 
