@@ -14,6 +14,10 @@
 | **Total**                                         |**Unknown/Unknown**|
 
 ## Binary Search I
+1.1 [704 - Binary Search](source/704%20-%20Binary%20Search.cpp)
+1.2 [374 - Guess Number Higher or Lower](source/374%20-%20Guess%20Number%20Higher%20or%20Lower.cpp)
+2.1 [35 - Search Insert Position](source/35%20-%20Search%20Insert%20Position.cpp)
+2.2 [852 - Peak Index in a Mountain Array](source/852%20-%20Peak%20Index%20in%20a%20Mountain%20Array.cpp)
 - Day 1:
   - [704 - Binary Search](source/704%20-%20Binary%20Search.cpp)
   - [374 - Guess Number Higher or Lower](source/374%20-%20Guess%20Number%20Higher%20or%20Lower.cpp)
