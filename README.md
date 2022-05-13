@@ -14,8 +14,6 @@
 | **Total**                                         |**Unknown/Unknown**|
 
 ## Binary Search I
-- Day 1:  - [704 - Binary Search](source/704%20-%20Binary%20Search.cpp)
-          - [374 - Guess Number Higher or Lower](source/374%20-%20Guess%20Number%20Higher%20or%20Lower.cpp)
 - Day 1:
   - [704 - Binary Search](source/704%20-%20Binary%20Search.cpp)
   - [374 - Guess Number Higher or Lower](source/374%20-%20Guess%20Number%20Higher%20or%20Lower.cpp)
@@ -92,6 +90,32 @@
 - Day 12:
 
 ## Programming Skills II
+
+
+## Dynamic Programming I
+- Day 1:
+  - [509 - Fibonacci Number](source/509%20-%20Fibonacci%20Number)
+  - [509 - Fibonacci Number](source/1137%20-%20N-th%20Tribonacci%20Number.cpp)
+- Day 2:
+- Day 3:
+- Day 4:
+- Day 5:
+- Day 6:
+- Day 7:
+- Day 8:
+- Day 9:
+- Day 10:
+- Day 11:
+- Day 12:
+- Day 13:
+- Day 14:
+- Day 15:
+- Day 16:
+- Day 17:
+- Day 18:
+- Day 19:
+- Day 20:
+- Day 21:
 
 
 ## Daily Challenge
