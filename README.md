@@ -14,7 +14,8 @@
 | **Total**                                         |**Unknown/Unknown**|
 
 ## Binary Search I
-- Day 1.1 [704 - Binary Search](source/704%20-%20Binary%20Search.cpp)
+- Day 1:  - [704 - Binary Search](source/704%20-%20Binary%20Search.cpp)
+          - [374 - Guess Number Higher or Lower](source/374%20-%20Guess%20Number%20Higher%20or%20Lower.cpp)
 - Day 1:
   - [704 - Binary Search](source/704%20-%20Binary%20Search.cpp)
   - [374 - Guess Number Higher or Lower](source/374%20-%20Guess%20Number%20Higher%20or%20Lower.cpp)
