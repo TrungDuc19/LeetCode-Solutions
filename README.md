@@ -8,11 +8,13 @@
 | [Binary Search II](#Binary-Search-II)             |     00/00     |
 | [Programming Skills I](#Programming-Skills-I)     |     04/34     |
 | [Programming Skills II](#Programming-Skills-II)   |     00/00     |
+| [Dynamic Programming I](#Dynamic-Programming-I)   |     02/46     |
 | [Daily Challenge](#Daily-Challenge)               |   06/Unknown  |
 | [Other](#Other)                                   |   03/Unknown  |
 | **Total**                                         |**Unknown/Unknown**|
 
 ## Binary Search I
+- Day 1.1 [704 - Binary Search](source/704%20-%20Binary%20Search.cpp)
 - Day 1:
   - [704 - Binary Search](source/704%20-%20Binary%20Search.cpp)
   - [374 - Guess Number Higher or Lower](source/374%20-%20Guess%20Number%20Higher%20or%20Lower.cpp)
