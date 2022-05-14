@@ -81,30 +81,11 @@
 
 
 ## Dynamic Programming I
-- Day 1:
-  - [509 - Fibonacci Number](source/509%20-%20Fibonacci%20Number)
-  - [509 - Fibonacci Number](source/1137%20-%20N-th%20Tribonacci%20Number.cpp)
-- Day 2:
-  - [70 - Climbing Stairs](source/70%20-%20Climbing%20Stairs.cpp)
-- Day 3:
-- Day 4:
-- Day 5:
-- Day 6:
-- Day 7:
-- Day 8:
-- Day 9:
-- Day 10:
-- Day 11:
-- Day 12:
-- Day 13:
-- Day 14:
-- Day 15:
-- Day 16:
-- Day 17:
-- Day 18:
-- Day 19:
-- Day 20:
-- Day 21:
+1-1. [509 - Fibonacci Number](source/509%20-%20Fibonacci%20Number)
+2-1. [509 - Fibonacci Number](source/1137%20-%20N-th%20Tribonacci%20Number.cpp)
+3. [70 - Climbing Stairs](source/70%20-%20Climbing%20Stairs.cpp)
+4. 
+
 
 
 ## Daily Challenge
