@@ -81,8 +81,8 @@
 
 
 ## Dynamic Programming I
-1-1. [509 - Fibonacci Number](source/509%20-%20Fibonacci%20Number)
-2-1. [509 - Fibonacci Number](source/1137%20-%20N-th%20Tribonacci%20Number.cpp)
+1.1. [509 - Fibonacci Number](source/509%20-%20Fibonacci%20Number)
+2.1. [509 - Fibonacci Number](source/1137%20-%20N-th%20Tribonacci%20Number.cpp)
 3. [70 - Climbing Stairs](source/70%20-%20Climbing%20Stairs.cpp)
 4. 
 
