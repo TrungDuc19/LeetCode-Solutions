@@ -101,6 +101,7 @@
   - [509 - Fibonacci Number](source/509%20-%20Fibonacci%20Number)
   - [509 - Fibonacci Number](source/1137%20-%20N-th%20Tribonacci%20Number.cpp)
 - Day 2:
+  - [70 - Climbing Stairs](source/70%20-%20Climbing%20Stairs.cpp)
 - Day 3:
 - Day 4:
 - Day 5:
