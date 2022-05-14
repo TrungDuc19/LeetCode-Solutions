@@ -9,8 +9,6 @@
 | [Programming Skills I](#Programming-Skills-I)     |     04/34     |
 | [Programming Skills II](#Programming-Skills-II)   |     00/00     |
 | [Dynamic Programming I](#Dynamic-Programming-I)   |     02/46     |
-| [Daily Challenge](#Daily-Challenge)               |   06/Unknown  |
-| [Other](#Other)                                   |   03/Unknown  |
 | **Total**                                         |**Unknown/Unknown**|
 
 ## Binary Search I
@@ -85,26 +83,3 @@
 2. [1137 - N-th Tribonacci Number](source/1137%20-%20N-th%20Tribonacci%20Number.cpp)
 3. [70 - Climbing Stairs](source/70%20-%20Climbing%20Stairs.cpp)
 4. []
-
-
-
-## Daily Challenge
-- Month 5:
-1. [844 - Backspace String Compare](source/844-%20Backspace%20String%20Compare.cpp)
-2. [905 - Sort Array By Parity](source/905%20-%20Sort%20Array%20By%20Parity.cpp)
-3. []()
-  - Day 7: [456 - 132 Pattern](source/456%20-%20132%20Pattern.cpp)
-  - Day 8:
-  - Day 9:
-  - Day 10: 
-  - Day 11: [1641 - Count Sorted Vowel Strings](source/1641%20-%20Count%20Sorted%20Vowel%20Strings.cpp)
-  - Day 12: [47 - Permutations II](source/47%20-%20Permutations%20II.cpp)
-
-
-## Other
-1. [905 - Sort Array By Parity](source/905%20-%20Sort%20Array%20By%20Parity.cpp)
-2. [2 - Add Two Numbers](source/2%20-%20Add%20Two%20Numbers.cpp)
-3. [9 - Palindrome Number](source/9%20-%20Palindrome%20Number.cpp)
-4. [1679 - Max Number of K-Sum Pairs](source/1679%20-%20Max%20Number%20of%20K-Sum%20Pairs.cpp)
-5. [225 - Implement Stack using Queues](source/225%20-%20Implement%20Stack%20using%20Queues.cpp)
-6. [1209 - Remove All Adjacent Duplicates in String II](source/1209%20-%20Remove%20All%20Adjacent%20Duplicates%20in%20String%20II.cpp)
