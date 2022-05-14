@@ -20,44 +20,24 @@
 4. [852 - Peak Index in a Mountain Array](source/852%20-%20Peak%20Index%20in%20a%20Mountain%20Array.cpp) 
 5. [367 - Valid Perfect Square](source/367%20-%20Valid%20Perfect%20Square.cpp) 
 6. [1385 - Find the Distance Value Between Two Arrays](source/1385%20-%20Find%20the%20Distance%20Value%20Between%20Two%20Arrays.cpp)
-
-
-- Day 1:
-  - [704 - Binary Search](source/704%20-%20Binary%20Search.cpp)
-  - [374 - Guess Number Higher or Lower](source/374%20-%20Guess%20Number%20Higher%20or%20Lower.cpp)
-- Day 2:
-  - [35 - Search Insert Position](source/35%20-%20Search%20Insert%20Position.cpp)
-  - [852 - Peak Index in a Mountain Array](source/852%20-%20Peak%20Index%20in%20a%20Mountain%20Array.cpp)
-- Day 3:
-  - [367 - Valid Perfect Square](source/367%20-%20Valid%20Perfect%20Square.cpp)
-  - [1385 - Find the Distance Value Between Two Arrays](source/1385%20-%20Find%20the%20Distance%20Value%20Between%20Two%20Arrays.cpp)
-- Day 4:
-  - [69 - Sqrt(x)](source/69%20-%20Sqrt(x).cpp)
-  - [744 - Find Smallest Letter Greater Than Target](source/744%20-%20Find%20Smallest%20Letter%20Greater%20Than%20Target.cpp)
-- Day 5:
-  - [278 - First Bad Version](source/278%20-%20First%20Bad%20Version.cpp)
-  - [34 - Find First and Last Position of Element in Sorted Array](source/34%20-%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.cpp)
-- Day 6:
-  - [441 - Arranging Coins](source/441%20-%20Arranging%20Coins.cpp)
-  - []()
-- Day 7:
-  - [167 - Two Sum II - Input Array Is Sorted](source/167%20-%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.cpp)
-  - []()
-- Day 8:
-  - [74 - Search a 2D Matrix](source/74%20-%20Search%20a%202D%20Matrix.cpp)
-  - []()
-- Day 9:
-  - [1337 - The K Weakest Rows in a Matrix](source/1337%20-%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.cpp)
-  - [1346 - Check If N and Its Double Exist](source/1346%20-%20Check%20If%20N%20and%20Its%20Double%20Exist.cpp)
-- Day 10:
-  - []()
-  - [633 - Sum of Square Numbers](source/633%20-%20Sum%20of%20Square%20Numbers.cpp)
-- Day 11:
-  - []()
-  - []()
-- Day 12:
-  - []()
-  - []()
+7. [69 - Sqrt(x)](source/69%20-%20Sqrt(x).cpp)
+8. [744 - Find Smallest Letter Greater Than Target](source/744%20-%20Find%20Smallest%20Letter%20Greater%20Than%20Target.cpp)
+9. [278 - First Bad Version](source/278%20-%20First%20Bad%20Version.cpp)
+10. [34 - Find First and Last Position of Element in Sorted Array](source/34%20-%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.cpp)
+11. [441 - Arranging Coins](source/441%20-%20Arranging%20Coins.cpp)
+12. []()
+13. [167 - Two Sum II - Input Array Is Sorted](source/167%20-%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.cpp)
+14. []()
+15. [74 - Search a 2D Matrix](source/74%20-%20Search%20a%202D%20Matrix.cpp)
+16. []()
+17. [1337 - The K Weakest Rows in a Matrix](source/1337%20-%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.cpp)
+18. [1346 - Check If N and Its Double Exist](source/1346%20-%20Check%20If%20N%20and%20Its%20Double%20Exist.cpp)
+19. []()
+20. [633 - Sum of Square Numbers](source/633%20-%20Sum%20of%20Square%20Numbers.cpp)
+21. []()
+22. []()
+23. []()
+24. []()
 
 ## Binary Search II
 
