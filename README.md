@@ -89,3 +89,7 @@
 8. []()
 9. []()
 10. [53 - Maximum Subarray](source/53%20-%20Maximum%20Subarray.cpp)
+11. []()
+12. []()
+13. []()
+14. [1014 - Best Sightseeing Pair](source/1014%20-%20Best%20Sightseeing%20Pair.cpp)
