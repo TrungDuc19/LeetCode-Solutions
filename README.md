@@ -86,10 +86,11 @@
 5. [198 - House Robber](source/198%20-%20House%20Robber.cpp)
 6. [213 - House Robber II](source/213%20-%20House%20Robber%20II.cpp)
 7. [740 - Delete and Earn](source/740%20-%20Delete%20and%20Earn.cpp)
-8. []()
-9. []()
+8. [55 - Jump Game](source/55%20-%20Jump%20Game.cpp)
+9. [45 - Jump Game II](source/45%20-%20Jump%20Game%20II.cpp)
 10. [53 - Maximum Subarray](source/53%20-%20Maximum%20Subarray.cpp)
-11. []()
-12. []()
-13. []()
+11. []
+12. []
+13. []
 14. [1014 - Best Sightseeing Pair](source/1014%20-%20Best%20Sightseeing%20Pair.cpp)
+15. [121 - Best Time to Buy and Sell Stock](source/121%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp)
