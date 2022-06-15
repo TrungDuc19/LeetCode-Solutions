@@ -25,16 +25,16 @@
 11. [441 - Arranging Coins](source/441%20-%20Arranging%20Coins.cpp)
 12. [1539 - Kth Missing Positive Number](source/1539%20-%20Kth%20Missing%20Positive%20Number.cpp)
 13. [167 - Two Sum II - Input Array Is Sorted](source/167%20-%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.cpp)
-14. []()
+14. [1608 - Special Array With X Elements Greater Than or Equal X]
 15. [1351 - Count Negative Numbers in a Sorted Matrix](source/1351%20-%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.cpp)
 16. [74 - Search a 2D Matrix](source/74%20-%20Search%20a%202D%20Matrix.cpp)
 17. [1337 - The K Weakest Rows in a Matrix](source/1337%20-%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.cpp)
 18. [1346 - Check If N and Its Double Exist](source/1346%20-%20Check%20If%20N%20and%20Its%20Double%20Exist.cpp)
-19. []()
+19. [350 - Intersection of Two Arrays II]
 20. [633 - Sum of Square Numbers](source/633%20-%20Sum%20of%20Square%20Numbers.cpp)
-21. []()
-22. []()
-23. []()
+21. [1855 - Maximum Distance Between a Pair of Values]
+22. [33 - Search in Rotated Sorted Array]
+23. [153 - Find Minimum in Rotated Sorted Array]
 
 ## Binary Search II
 
