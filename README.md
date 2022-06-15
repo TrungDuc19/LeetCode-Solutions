@@ -72,8 +72,8 @@
 30. []()
 31. []()
 32. []()
-33. []()
-34. []()
+33. [1603 - Design Parking System](source/1603%20-%20Design%20Parking%20System.cpp)
+34. [303 - Range Sum Query - Immutable](source/303%20-%20Range%20Sum%20Query%20-%20Immutable.cpp)
 
 ## Programming Skills II
 
