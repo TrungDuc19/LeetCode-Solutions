@@ -89,39 +89,39 @@
 8. [55 - Jump Game](source/55%20-%20Jump%20Game.cpp)
 9. [45 - Jump Game II](source/45%20-%20Jump%20Game%20II.cpp)
 10. [53 - Maximum Subarray](source/53%20-%20Maximum%20Subarray.cpp)
-11. [918 - Maximum Sum Circular Subarray]()
-12. [152 - Maximum Product Subarray]()
-13. [1567 - Maximum Length of Subarray With Positive Product]()
+11. [918 - Maximum Sum Circular Subarray]
+12. [152 - Maximum Product Subarray]
+13. [1567 - Maximum Length of Subarray With Positive Product]
 14. [1014 - Best Sightseeing Pair](source/1014%20-%20Best%20Sightseeing%20Pair.cpp)
 15. [121 - Best Time to Buy and Sell Stock](source/121%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp)
 16. [122 - Best Time to Buy and Sell Stock II](source/122%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.cpp)
 17. [309 - Best Time to Buy and Sell Stock with Cooldown]()
 18. [714 - Best Time to Buy and Sell Stock with Transaction Fee]()
-19. [139 - Word Break]()
-20. [42 - Trapping Rain Water]()
+19. [139 - Word Break]
+20. [42 - Trapping Rain Water]
 21. [413 - Arithmetic Slices](source/413%20-%20Arithmetic%20Slices.cpp)
 22. [91 - Decode Ways](source/91%20-%20Decode%20Ways.cpp)
-23. [96 - Unique Binary Search Trees]()
-24. [264 - Ugly Number II]()
+23. [96 - Unique Binary Search Trees]
+24. [264 - Ugly Number II]
 25. [118 - Pascal's Triangle](source/118%20-%20Pascal's%20Triangle.cpp)
 26. [119 - Pascal's Triangle II](source/119%20-%20Pascal's%20Triangle%20II.cpp)
 27. [931 - Minimum Falling Path Sum](source/931%20-%20Minimum%20Falling%20Path%20Sum.cpp)
 28. [120 - Triangle](source/120%20-%20Triangle.cpp)
 29. [1314 - Matrix Block Sum](source/1314%20-%20Matrix%20Block%20Sum.cpp)
-30. [304 - Range Sum Query 2D - Immutable]()
+30. [304 - Range Sum Query 2D - Immutable]
 31. [62 - Unique Paths](source/62%20-%20Unique%20Paths.cpp)
 32. [63 - Unique Paths II](source/63%20-%20Unique%20Paths%20II.cpp)
 33. [64 - Minimum Path Sum](source/64%20-%20Minimum%20Path%20Sum.cpp)
-34. [221 - Maximal Square]()
-35. [5 - Longest Palindromic Substring]()
-36. [516 - Longest Palindromic Subsequence]()
+34. [221 - Maximal Square]
+35. [5 - Longest Palindromic Substring]
+36. [516 - Longest Palindromic Subsequence]
 37. [300 - Longest Increasing Subsequence](source/300%20-%20Longest%20Increasing%20Subsequence.cpp)
-38. [376 - Wiggle Subsequence]()
+38. [376 - Wiggle Subsequence]
 39. [392 - Is Subsequence](source/392%20-%20Is%20Subsequence.cpp)
 40. [1143 - Longest Common Subsequence](source/1143%20-%20Longest%20Common%20Subsequence.cpp)
-41. [72 - Edit Distance]()
+41. [72 - Edit Distance]
 42. [322 - Coin Change](source/322%20-%20Coin%20Change.cpp)
 43. [518 - Coin Change 2](source/518%20-%20Coin%20Change%202.cpp)
 44. [377 - Combination Sum IV](source/377%20-%20Combination%20Sum%20IV.cpp)
-45. [343 - Integer Break]()
+45. [343 - Integer Break]
 46. [279 - Perfect Squares](source/279%20-%20Perfect%20Squares.cpp)
