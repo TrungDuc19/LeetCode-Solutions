@@ -34,7 +34,7 @@
 20. [633 - Sum of Square Numbers](source/633%20-%20Sum%20of%20Square%20Numbers.cpp)
 21. [1855 - Maximum Distance Between a Pair of Values](source/1855%20-%20Maximum%20Distance%20Between%20a%20Pair%20of%20Values.cpp)
 22. [33 - Search in Rotated Sorted Array](source/33%20-%20Search%20in%20Rotated%20Sorted%20Array.cpp)
-23. [153 - Find Minimum in Rotated Sorted Array]
+23. [153 - Find Minimum in Rotated Sorted Array](source/153%20-%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.cpp)
 
 ## Binary Search II
 
