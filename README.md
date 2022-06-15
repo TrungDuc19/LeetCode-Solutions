@@ -4,7 +4,7 @@
 ## Table of contents
 |                   Problem Type                    | Number Solved |
 |---------------------------------------------------|:-------------:|
-| [Binary Search I](#Binary-Search-I)               |     09/23     |
+| [Binary Search I](#Binary-Search-I)               |     23/23     |
 | [Binary Search II](#Binary-Search-II)             |     00/00     |
 | [Programming Skills I](#Programming-Skills-I)     |     04/34     |
 | [Programming Skills II](#Programming-Skills-II)   |     00/00     |
@@ -25,7 +25,7 @@
 11. [441 - Arranging Coins](source/441%20-%20Arranging%20Coins.cpp)
 12. [1539 - Kth Missing Positive Number](source/1539%20-%20Kth%20Missing%20Positive%20Number.cpp)
 13. [167 - Two Sum II - Input Array Is Sorted](source/167%20-%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.cpp)
-14. [1608 - Special Array With X Elements Greater Than or Equal X]
+14. [1608 - Special Array With X Elements Greater Than or Equal X](source/1608%20-%20Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X.cpp)
 15. [1351 - Count Negative Numbers in a Sorted Matrix](source/1351%20-%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.cpp)
 16. [74 - Search a 2D Matrix](source/74%20-%20Search%20a%202D%20Matrix.cpp)
 17. [1337 - The K Weakest Rows in a Matrix](source/1337%20-%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.cpp)
