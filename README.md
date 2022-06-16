@@ -65,7 +65,7 @@
 23. []()
 24. []()
 25. [1290 - Convert Binary Number in a Linked List to Integer](source/1290%20-%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.cpp)
-26. []()
+26. [876 - Middle of the Linked List](source/876%20-%20Middle%20of%20the%20Linked%20List.cpp)
 27. []()
 28. []()
 29. []()
