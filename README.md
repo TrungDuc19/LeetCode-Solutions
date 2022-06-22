@@ -54,7 +54,7 @@
 12. [496 - Next Greater Element I](source/496%20-%20Next%20Greater%20Element%20I.cpp)
 13. [1232 - Check If It Is a Straight Line]
 14. [1588 - Sum of All Odd Length Subarrays]
-15. [283 - Move Zeroes]
+15. [283 - Move Zeroes](source/283%20-%20Move%20Zeroes.cpp)
 16. [1672 - Richest Customer Wealth](source/1672%20-%20Richest%20Customer%20Wealth.cpp)
 17. [1572 - Matrix Diagonal Sum](source/1572%20-%20Matrix%20Diagonal%20Sum.cpp)
 18. [566 - Reshape the Matrix](source/566%20-%20Reshape%20the%20Matrix.cpp)
